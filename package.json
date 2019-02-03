@@ -1,5 +1,5 @@
 {
-  "name": "my-hsbc-app",
+  "name": "my-Movie-wiki",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
@@ -8,18 +8,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/raymondhung010/my-HSBC-app.git"
+    "url": "git+ssh://git@github.com/raymondhung010/my-Movie-wiki.git"
   },
   "keywords": [
     "react",
-    "HSBC"
+	"typescript"
+    "Movie",
+	"wiki"
   ],
   "author": "raymondhung010",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/raymondhung010/my-HSBC-app/issues"
+    "url": "https://github.com/raymondhung010/my-Movie-wiki/issues"
   },
-  "homepage": "https://github.com/raymondhung010/my-HSBC-app#readme",
+  "homepage": "https://github.com/raymondhung010/my-Movie-wiki#readme",
   "dependencies": {
     "@types/react": "^16.8.1",
     "@types/react-dom": "^16.0.11",
